@@ -1,0 +1,9 @@
+[project]
+name = "museum-cooperation"
+version = "0.1.0"
+description = "跨国文博合作承诺的服务端基础"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
